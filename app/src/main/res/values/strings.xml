@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EDA News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="eda_title">The School of Engineering and Digital Arts</string>
+    <string name="eda">"The School of Engineering and Digital Arts has an excellent reputation for both its teaching and research. Based in the Jennison Building on the Canterbury Campus, the School has 30 academic staff members, with both academic and industrial experience, as well as a number of specialist visiting lecturers. With strong industrial links, much of our research is supported by commercial organisations; there is also a range of industrially sponsored prizes for best students in each of our years. We are a forward-looking and culturally diverse School and our courses are regularly reviewed to ensure that they are always up-to-date." Text obtained from: https://www.eda.kent.ac.uk/school/default.aspx</string>
+    <string name="about">This application shows news from the EDA website. You can also save articles as favourites to review later, as well as share any article by email, message or any social network installed in your phone.</string>
+    <string name="search_hint">Search articles here</string>
+</resources>
